@@ -23,6 +23,6 @@ Os principais casos de uso das expressões regulares são procurar e manipular s
     </div>
     <br/>
     <p> 
-      <a href="https://github.com/robertolima-dev/regexp/blob/main/LICENSE.md">LICENÇA</a>
+      <a href="https://github.com/robertolima-dev/licenca/blob/main/LICENSE.md">LICENÇA</a>
     </p>
 </div>
